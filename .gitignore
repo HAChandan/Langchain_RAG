@@ -1,0 +1,13 @@
+venv/
+myenv/
+myenv/*
+.vscode
+__pycache__
+data.db
+*.pyc
+.DS_Store
+chroma_langchain_db/
+rag_app.db
+api/app.log
+# Log files
+.env
