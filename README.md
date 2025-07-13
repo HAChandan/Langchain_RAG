@@ -72,6 +72,18 @@ GROQ_API_KEY="your_groq_key_here"
 
 ---
 
+
+## 📦 Dependency Note
+
+## 🔄 If you face any issues with version conflicts, try installing from the frozen list instead:
+
+If requirements.txt fails to install or has version conflicts, delete the old environment and create new environment and you can try installing exact pinned versions using the pre-generated req.txt file:
+```bash
+pip install -r req.txt
+```
+
+---
+
 ## 🧪 How to Run the App
 
 > 💡 Open **two terminals** in the project root directory
