@@ -37,6 +37,7 @@ Langchain_RAG/
 │   ├── chat_interface.py  # Chat message handling
 │   ├── api_utils.py       # API calls from frontend
 │
+├── req.txt                # Frozen requirements
 ├── requirements.txt       # Python dependencies
 ├── .env                   # API keys (GROQ, etc.)
 └── README.md              # Project documentation
